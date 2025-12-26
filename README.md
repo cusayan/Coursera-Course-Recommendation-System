@@ -1,4 +1,4 @@
-# Sayan Banerjee
+# Credit [Sagar Bapodara]
 
 This is my first attempt at creating a Dockerfile for a web application.
 
